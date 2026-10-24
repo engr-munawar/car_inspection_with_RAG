@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Large files
+*.pdf
+*.h5
+*.pth
+*.onnx
+*.zip
+docs/swift_car_manual.pdf
