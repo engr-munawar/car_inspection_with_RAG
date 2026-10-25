@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Environment / secrets
+.env
+.env.*
+
+# Large files / models
+*.pdf
+*.h5
+*.pth
+*.onnx
+*.zip
+*.pt
+docs/swift_car_manual.pdf
+models/
+
+# Generated / temp output
+temp_images/
+*.json
+!requirements.json
+
+# Test images
+user_car*.jpg
