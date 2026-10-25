@@ -21,7 +21,9 @@ env/
 *.zip
 *.pt
 docs/swift_car_manual.pdf
-models/
+models/*.pt
+models/*.pth
+models/*.onnx
 
 # Generated / temp output
 temp_images/
